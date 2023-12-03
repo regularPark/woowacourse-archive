@@ -4,7 +4,7 @@
 
 ## 레벨 1. JavaScript/TypeScript
 
-| 미션                    | repository                                                                    | PR                                                                   | 페어                                     |
+| 미션                    | Repository                                                                    | PR                                                                   | 페어                                     |
 | ----------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------- |
 | 자동차 경주 - 테스트    | [step1](https://github.com/regularPark/javascript-racingcar/tree/regularpark) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/173)   | [타미](https://github.com/xodms0309)     |
 |                         | [step2](https://github.com/regularPark/javascript-racingcar/tree/step2)       | [PR](https://github.com/woowacourse/javascript-racingcar/pull/212)   |                                          |
@@ -17,7 +17,7 @@
 
 ## 레벨 2. React
 
-| 미션                                    | repository                                                                  | PR                                                                     | 페어                                    |
+| 미션                                    | Repository                                                                  | PR                                                                     | 페어                                    |
 | --------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- |
 | 다시, 점심 뭐 먹지                      | [step1](https://github.com/regularPark/react-lunch/tree/step1)              | [PR](https://github.com/woowacourse/react-lunch/pull/26)               | [첵스](https://github.com/HyeryongChoi) |
 |                                         | [step2](https://github.com/regularPark/react-lunch/tree/step2)              | [PR](https://github.com/woowacourse/react-lunch/pull/55)               |                                         |
@@ -28,3 +28,9 @@
 |                                         | [step2](https://github.com/regularPark/react-shopping-cart/tree/step2)      | [PR](https://github.com/woowacourse/react-shopping-cart/pull/219)      |                                         |
 | 쇼핑 주문(협업)                         | [step1](https://github.com/regularPark/react-shopping-cart-prod/tree/step1) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/94)  | [고니](https://github.com/jeongwusi)    |
 |                                         | [step2](https://github.com/regularPark/react-shopping-cart-prod/tree/step2) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/166) |                                         |
+
+## 레벨 3. Team Project
+
+| 프로젝트명   | Repository                                                               | Website                                         |
+| ------------ | ------------------------------------------------------------------------ | ----------------------------------------------- |
+| 스탬프크러쉬 | [2023-stampcrush](https://github.com/woowacourse-teams/2023-stamp-crush) | [stampcrush.site](https://www.stampcrush.site/) |
