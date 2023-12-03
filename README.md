@@ -34,3 +34,11 @@
 | 프로젝트명   | Repository                                                               | Website                                         |
 | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------- |
 | 스탬프크러쉬 | [2023-stampcrush](https://github.com/woowacourse-teams/2023-stamp-crush) | [stampcrush.site](https://www.stampcrush.site/) |
+
+## 레벨 4. 프론트엔드 성능 개선
+
+| 미션                                        | Repository                                                               | PR                                                              |
+| ------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| 성능 베이스캠프                             | [perf-basecamp](https://github.com/regularPark/perf-basecamp/tree/step1) | [PR](https://github.com/woowacourse/perf-basecamp/pull/84)      |
+| 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | [layout-component](https://github.com/regularPark/layout-component)      | [PR](https://github.com/woowacourse/layout-component/pull/66)   |
+| SSR/SSG/ISR 로 내 서비스 클론 코딩하기      | [frontend-rendering](https://github.com/regularPark/frontend-rendering)  | [PR](https://github.com/woowacourse/frontend-rendering/pull/18) |
