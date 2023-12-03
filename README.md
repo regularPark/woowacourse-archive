@@ -14,3 +14,17 @@
 |                         | [step2](https://github.com/regularPark/javascript-lunch)                      | [PR](https://github.com/woowacourse/javascript-lunch/pull/70)        |                                          |
 | 영화 리뷰 - 웹 앱       | [step1](https://github.com/regularPark/javascript-movie-review/tree/step1)    | [PR](https://github.com/woowacourse/javascript-movie-review/pull/24) | [솔로스타](https://github.com/solo5star) |
 |                         | [step2](https://github.com/regularPark/javascript-movie-review/tree/step2)    | [PR](https://github.com/woowacourse/javascript-movie-review/pull/64) |                                          |
+
+## 레벨 2. React
+
+| 미션                                    | repository                                                                  | PR                                                                     | 페어                                    |
+| --------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- |
+| 다시, 점심 뭐 먹지                      | [step1](https://github.com/regularPark/react-lunch/tree/step1)              | [PR](https://github.com/woowacourse/react-lunch/pull/26)               | [첵스](https://github.com/HyeryongChoi) |
+|                                         | [step2](https://github.com/regularPark/react-lunch/tree/step2)              | [PR](https://github.com/woowacourse/react-lunch/pull/55)               |                                         |
+| 페이먼츠 - Component-Driven Development | [step1](https://github.com/regularPark/react-payments/tree/step1)           | [PR](https://github.com/woowacourse/react-payments/pull/226)           | [쿠마](https://github.com/yogjin)       |
+|                                         | [step2](https://github.com/regularPark/react-payments/tree/step2)           | [PR](https://github.com/woowacourse/react-payments/pull/256)           |                                         |
+|                                         | [step3](https://github.com/regularPark/react-payments/tree/step3)           | [PR](https://github.com/woowacourse/react-payments/pull/288)           |                                         |
+| 장바구니 - State Management             | [step1](https://github.com/regularPark/react-shopping-cart/tree/step1)      | [PR](https://github.com/woowacourse/react-shopping-cart/pull/179)      | [야미](https://github.com/feb-dain)     |
+|                                         | [step2](https://github.com/regularPark/react-shopping-cart/tree/step2)      | [PR](https://github.com/woowacourse/react-shopping-cart/pull/219)      |                                         |
+| 쇼핑 주문(협업)                         | [step1](https://github.com/regularPark/react-shopping-cart-prod/tree/step1) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/94)  | [고니](https://github.com/jeongwusi)    |
+|                                         | [step2](https://github.com/regularPark/react-shopping-cart-prod/tree/step2) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/166) |                                         |
